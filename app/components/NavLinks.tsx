@@ -3,9 +3,8 @@
 import { usePathname } from "next/navigation";
 
 const links = [
-  { label: "Work",    href: "/" },
-  { label: "About",   href: "/about" },
-  { label: "Contact", href: "mailto:kenfojas@gmail.com" },
+  { label: "Work",  href: "/" },
+  { label: "About", href: "/about" },
 ];
 
 export default function NavLinks() {

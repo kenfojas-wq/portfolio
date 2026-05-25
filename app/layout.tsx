@@ -46,10 +46,10 @@ export default function RootLayout({
         {/* ── Bottom-right: Email ────────────────────────────────── */}
         <div className="fixed bottom-0 right-0 z-50 p-6">
           <a
-            href="mailto:kenfojas@gmail.com"
+            href="mailto:kenneth@kennethnotkenny.co"
             className="text-[11px] opacity-50 underline hover:opacity-100 transition-opacity duration-150"
           >
-            kenfojas@gmail.com
+            kenneth@kennethnotkenny.co
           </a>
         </div>
 
