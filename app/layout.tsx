@@ -40,7 +40,7 @@ export default function RootLayout({
 
         {/* ── Bottom-left: Year ──────────────────────────────────── */}
         <div className="fixed bottom-0 left-0 z-50 p-6">
-          <span className="text-[11px] opacity-50">©2025</span>
+          <span className="text-[11px] opacity-50">©2026</span>
         </div>
 
         {/* ── Bottom-right: Email ────────────────────────────────── */}
