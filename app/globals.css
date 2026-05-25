@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg:  #F4F3F1;
+    --ink: #1C1916;
+  }
+
+  html {
+    background-color: var(--bg);
+    color: var(--ink);
+    /* hide native cursor globally so the custom dot takes over */
+    cursor: none !important;
+  }
+
+  * {
+    box-sizing: border-box;
+    cursor: none !important;
+  }
+
+  a {
+    text-underline-offset: 3px;
+  }
+}

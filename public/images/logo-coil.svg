@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 228" fill="none">
+  <defs>
+    <filter id="px" x="-4%" y="-4%" width="108%" height="108%">
+      <feTurbulence type="turbulence" baseFrequency="0.08" numOctaves="1" seed="7" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="6" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+  <g transform="skewX(13)" filter="url(#px)">
+    <ellipse cx="30"  cy="112" rx="27" ry="108" stroke="#3E3A36" stroke-width="1.4"/>
+    <ellipse cx="60"  cy="112" rx="27" ry="108" stroke="#3E3A36" stroke-width="1.4"/>
+    <ellipse cx="90"  cy="112" rx="27" ry="108" stroke="#3E3A36" stroke-width="1.4"/>
+    <ellipse cx="120" cy="112" rx="27" ry="108" stroke="#3E3A36" stroke-width="1.4"/>
+    <ellipse cx="150" cy="112" rx="27" ry="108" stroke="#3E3A36" stroke-width="1.4"/>
+  </g>
+</svg>

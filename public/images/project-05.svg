@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#B8C8B4"/>
+      <stop offset="60%" stop-color="#D6E4D0"/>
+      <stop offset="100%" stop-color="#E8EEE4"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#sky)"/>
+  <!-- Landscape / terrain layers -->
+  <path d="M0,220 Q80,180 160,200 Q240,218 320,185 Q360,170 400,190 L400,300 L0,300Z"
+        fill="#4D8C6F" opacity="0.50"/>
+  <path d="M0,245 Q100,225 200,238 Q300,250 400,230 L400,300 L0,300Z"
+        fill="#3A6B52" opacity="0.45"/>
+  <path d="M0,268 L400,268 L400,300 L0,300Z" fill="#2D5140" opacity="0.35"/>
+  <!-- Mountain silhouette -->
+  <path d="M60,220 L120,140 L180,220Z"  fill="#4D8C6F" opacity="0.35"/>
+  <path d="M200,220 L270,120 L340,220Z" fill="#3A6B52" opacity="0.30"/>
+  <!-- Moon / light source -->
+  <circle cx="330" cy="60" r="28" fill="#E8EEE4" opacity="0.60"/>
+  <circle cx="330" cy="60" r="20" fill="#D6E4D0" opacity="0.50"/>
+</svg>

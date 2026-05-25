@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%" stop-color="#DDE8F5"/>
+      <stop offset="100%" stop-color="#EEF3FA"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg3)"/>
+  <!-- Abstract bottle silhouette -->
+  <rect  x="180" y="55"  width="40"  height="12"  rx="6"  fill="#4A7FD4" opacity="0.55"/>
+  <rect  x="183" y="67"  width="34"  height="10"  rx="4"  fill="#4A7FD4" opacity="0.45"/>
+  <rect  x="172" y="77"  width="56"  height="148" rx="12" fill="#4A7FD4" opacity="0.22"/>
+  <rect  x="176" y="80"  width="48"  height="142" rx="10" fill="#3A6BB5" opacity="0.18"/>
+  <!-- Soft halos -->
+  <ellipse cx="200" cy="155" rx="80" ry="90" fill="#7AAAD8" opacity="0.12"/>
+  <ellipse cx="200" cy="155" rx="50" ry="60" fill="#4A7FD4" opacity="0.10"/>
+  <!-- Label band -->
+  <rect x="178" y="125" width="44" height="50" rx="4" fill="white" opacity="0.35"/>
+</svg>
