@@ -21,7 +21,7 @@ export default function Home() {
               <p className="text-[10px] tracking-[0.18em] uppercase text-[#9A9189] mb-2">
                 Full-Stack Strategist
               </p>
-              <h1 className="text-[12px] font-bold leading-snug">KENNETH FOJAS</h1>
+              <h1 className="text-[16px] font-bold leading-snug">KENNETH FOJAS</h1>
               <Image
                 src="/images/star.png"
                 alt="star"
