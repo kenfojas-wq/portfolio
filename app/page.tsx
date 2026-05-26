@@ -31,9 +31,7 @@ export default function Home() {
                 unoptimized
               />
               <p className="text-[11px] text-[#5C5650] leading-[1.65]">
-                Equal parts systems thinker, investigative journalist, and
-                meme enthusiast. Kenneth finds the tension a category
-                refuses to name — then builds the work that actually moves brands.
+                A brand builder making the calls when the answer's up for grabs.
               </p>
             </div>
           </aside>

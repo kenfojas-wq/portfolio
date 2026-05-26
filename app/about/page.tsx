@@ -15,17 +15,19 @@ const statusLines = [
 
 const clients = [
   "Meta",
+  "Rivian",
   "Robinhood",
   "Chime",
   "Google",
   "YouTube",
-  "Rivian",
   "Apple EDU",
   "JPMorgan Chase",
+  "Seedlip",
   "Chase Travel",
   "DoorDash",
   "CookUnity",
   "Diageo",
+  "Spindrift",
   "The North Face",
   "Faye",
   "Branch Energy",
@@ -34,24 +36,27 @@ const clients = [
 
 const capabilities = [
   "Brand Strategy",
+  "Brand Identity",
   "Business Strategy",
-  "Campaign Architecture",
+  "Campaign Architecture Development",
   "Consumer Insights",
   "Cultural Consulting",
   "Brand Repositioning",
   "Platform Strategy",
   "Creative Concept Development",
-  "Focus Group Moderation",
+  "Focus Group Moderation, R&D",
   "Copywriting",
   "Content Planning",
+  "Surfing",
+  "Recipe Development",
 ];
 
 const awards = [
+  "Effies ×3 (Grand, Silver, TBD)",
   "Clios ×2",
-  "Effies ×2 (Silver, TBD)",
-  "Shorty Awards",
-  "Webbys",
-  "The One Show Finalist",
+  "Webbys ×2",
+  "The One Club Finalist",
+  "Shorty",
 ];
 
 export default function About() {
