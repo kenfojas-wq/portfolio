@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
-import { Space_Mono } from "next/font/google";
+import { Lekton } from "next/font/google";
 import Cursor from "./components/Cursor";
 import NavLinks from "./components/NavLinks";
 import "./globals.css";
 
-const spaceMono = Space_Mono({
+const lekton = Lekton({
   subsets: ["latin"],
   weight: ["400", "700"],
-  variable: "--font-space-mono",
+  variable: "--font-lekton",
 });
 
 export const metadata: Metadata = {
@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${spaceMono.variable} font-mono`}
+        className={`${lekton.variable} font-mono`}
         style={{ backgroundColor: "var(--bg)", color: "var(--ink)" }}
       >
         <Cursor />

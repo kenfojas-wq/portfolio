@@ -8,7 +8,7 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        mono: ["var(--font-space-mono)", "ui-monospace", "SFMono-Regular", "monospace"],
+        mono: ["var(--font-lekton)", "ui-monospace", "SFMono-Regular", "monospace"],
       },
     },
   },
