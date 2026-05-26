@@ -62,7 +62,7 @@ export default function About() {
       <div className="flex flex-col md:flex-row">
 
         {/* Left — Photo */}
-        <div className="px-10 md:pl-14 md:pr-10 md:w-[26%] shrink-0">
+        <div className="px-10 md:pl-24 md:pr-10 md:w-[26%] shrink-0">
           <Image
             src="/images/about-photo.png"
             alt="Kenneth Fojas"
