@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { projects } from "@/data/projects";
-import CoilLogo from "@/app/components/CoilLogo";
 
 export default function Home() {
   return (
@@ -23,7 +22,14 @@ export default function Home() {
                 Full-Stack Strategist
               </p>
               <h1 className="text-[12px] font-bold leading-snug">KENNETH FOJAS</h1>
-              <CoilLogo className="my-3" style={{ width: 36, height: 38 }} />
+              <Image
+                src="/images/star.png"
+                alt="star"
+                width={32}
+                height={32}
+                className="my-3"
+                unoptimized
+              />
               <p className="text-[11px] text-[#5C5650] leading-[1.65]">
                 Equal parts systems thinker, investigative journalist, and
                 meme enthusiast. Kenneth finds the tension a category
