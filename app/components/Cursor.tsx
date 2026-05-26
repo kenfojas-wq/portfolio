@@ -40,7 +40,7 @@ export default function Cursor() {
         width: "18px",
         height: "18px",
         borderRadius: "50%",
-        backgroundColor: "#1A3FFF",
+        backgroundColor: "#002FA7",
         transform: "translate(-50%, -50%)",
         pointerEvents: "none",
         zIndex: 99999,

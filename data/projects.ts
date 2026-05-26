@@ -17,7 +17,7 @@ export const projects: Project[] = [
     tags: ["Brand Strategy", "Campaign Planning", "Creative Strategy"],
     image: "/images/project-01.png",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
-    accentColor: "#1A3FFF",
+    accentColor: "#002FA7",
   },
   {
     id: "02",
@@ -27,7 +27,7 @@ export const projects: Project[] = [
     tags: ["Brand Positioning", "Campaign Strategy", "Comms Planning"],
     image: "/images/project-02.png",
     credit: { label: "AKQA", href: "https://www.akqa.com" },
-    accentColor: "#1A3FFF",
+    accentColor: "#002FA7",
   },
   {
     id: "03",
@@ -37,7 +37,7 @@ export const projects: Project[] = [
     tags: ["Brand Positioning", "Design Strategy", "Campaign Planning"],
     image: "/images/project-03.png",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
-    accentColor: "#1A3FFF",
+    accentColor: "#002FA7",
   },
   {
     id: "04",
@@ -47,7 +47,7 @@ export const projects: Project[] = [
     tags: ["Brand Strategy"],
     image: "/images/project-04.png",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
-    accentColor: "#1A3FFF",
+    accentColor: "#002FA7",
   },
   {
     id: "05",
@@ -57,7 +57,7 @@ export const projects: Project[] = [
     tags: ["Creative Strategy", "Focus Groups"],
     image: "/images/project-05.png",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
-    accentColor: "#1A3FFF",
+    accentColor: "#002FA7",
   },
   {
     id: "06",
@@ -67,7 +67,7 @@ export const projects: Project[] = [
     tags: ["Campaign Strategy", "Content Strategy"],
     image: "/images/project-06.png",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
-    accentColor: "#1A3FFF",
+    accentColor: "#002FA7",
   },
   {
     id: "07",
@@ -77,7 +77,7 @@ export const projects: Project[] = [
     tags: ["Brand Architecture", "Copywriting"],
     image: "/images/project-07.png",
     credit: { label: "Red Antler", href: "https://redantler.com" },
-    accentColor: "#1A3FFF",
+    accentColor: "#002FA7",
   },
   {
     id: "08",
@@ -87,7 +87,7 @@ export const projects: Project[] = [
     tags: ["Brand Strategy", "Naming", "Copywriting"],
     image: "/images/project-08.png",
     credit: { label: "Red Antler", href: "https://redantler.com" },
-    accentColor: "#1A3FFF",
+    accentColor: "#002FA7",
   },
   {
     id: "09",
@@ -97,6 +97,6 @@ export const projects: Project[] = [
     tags: ["Campaign Strategy", "Comms"],
     image: "/images/project-09.jpg",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
-    accentColor: "#1A3FFF",
+    accentColor: "#002FA7",
   },
 ];
