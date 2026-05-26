@@ -68,6 +68,7 @@ export const projects: Project[] = [
       "Outerspace was quietly reinventing third-party logistics, but the category was a sea of bland pack-and-ship sameness. The brand architecture reframed operations as a competitive advantage and positioned Outerspace as a badge of success for the most iconic brands in the world, productizing the holistic offering and turning a functional service into something founders are proud to work with.",
     tags: ["Brand Identity", "Copywriting"],
     image: "/images/project-07.png",
+    video: "/videos/project-outerspace.mp4",
     credit: { label: "Red Antler", href: "https://redantler.com" },
     accentColor: "#002FA7",
   },
