@@ -26,7 +26,7 @@ export default function Home() {
               <CoilLogo className="my-3" style={{ width: 36, height: 38 }} />
               <p className="text-[11px] text-[#5C5650] leading-[1.65]">
                 Equal parts systems thinker, investigative journalist, and
-                cultural meme enthusiast. Kenneth finds the tension a category
+                meme enthusiast. Kenneth finds the tension a category
                 refuses to name — then builds the work that actually moves brands.
               </p>
             </div>

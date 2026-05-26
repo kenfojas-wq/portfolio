@@ -50,6 +50,8 @@ const awards = [
   "Clios ×2",
   "Effies ×2 (Silver, TBD)",
   "Shorty Awards",
+  "Webbys",
+  "The One Show Finalist",
 ];
 
 export default function About() {
