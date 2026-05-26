@@ -51,13 +51,24 @@ export default function Home() {
                 {/* Left — Thumbnail */}
                 <div className="mb-8">
                   <div className="relative w-full aspect-[16/9] overflow-hidden group">
-                    <Image
-                      src={project.image}
-                      alt={project.title}
-                      fill
-                      className="object-cover transition-opacity duration-300 group-hover:opacity-75"
-                      unoptimized
-                    />
+                    {project.video ? (
+                      <video
+                        src={project.video}
+                        autoPlay
+                        muted
+                        loop
+                        playsInline
+                        className="absolute inset-0 w-full h-full object-cover transition-opacity duration-300 group-hover:opacity-75"
+                      />
+                    ) : (
+                      <Image
+                        src={project.image}
+                        alt={project.title}
+                        fill
+                        className="object-cover transition-opacity duration-300 group-hover:opacity-75"
+                        unoptimized
+                      />
+                    )}
                   </div>
                   {project.credit && (
                     <p className="mt-6 text-[10px] text-[#9A9189]">

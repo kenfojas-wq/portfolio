@@ -4,6 +4,7 @@ export interface Project {
   description: string;
   tags: string[];
   image: string;
+  video?: string;
   credit?: { label: string; href?: string };
   accentColor: string;
 }
@@ -36,6 +37,7 @@ export const projects: Project[] = [
       "Robinhood built its reputation on getting rich quick, so retirement was a tough sell to an audience raised on instant returns. The 2023 IRA launch work started deep repositioning of the brand towards a sharper truth: slow, predictable wealth is still wealth. The platform, built around the 3% match and getting the most retirement for your retirement, reframed an insight young adults find boring into one worth paying attention to.",
     tags: ["Brand Stewardship", "Brand Positioning", "Campaign Strategy", "Comms Planning"],
     image: "/images/project-02.png",
+    video: "/videos/project-robinhood.mp4",
     credit: { label: "AKQA", href: "https://www.akqa.com" },
     accentColor: "#002FA7",
   },
