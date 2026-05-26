@@ -47,7 +47,7 @@ export const projects: Project[] = [
     description:
       "Truth Initiative needed to evolve from preventing youth vaping into the go-to guide for young adults trying to quit nicotine. The strategic reframe flipped the cultural narrative from \"you're failing at quitting\" to \"quitting itself is broken.\" That single insight unlocked a brand architecture for EX Program as the only resource that meets Gen Z across every phase of the quit journey, instead of treating individual symptoms.",
     tags: ["Brand Positioning", "Design Strategy", "Campaign Planning"],
-    image: "/images/project-03.png",
+    image: "/images/project-ex-program.png",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
     accentColor: "#002FA7",
   },
@@ -87,7 +87,7 @@ export const projects: Project[] = [
     description:
       "Chase Travel had evolved from a points portal into a full-service trip planning platform, but cardmembers still saw it as a place to cash in points to shave a few bucks off. The insight: travel is exciting, planning is exhausting. The platform centered Chase Travel's team of well-traveled editors who take the work out of booking — moving the brand from transactional tool to a premium problem-solving service, and giving the audience a reason to start with Chase Travel instead of end there.",
     tags: ["Creative Strategy", "Focus Groups"],
-    image: "/images/project-05.png",
+    image: "/images/project-chase-travel.gif",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
     accentColor: "#002FA7",
   },
@@ -97,7 +97,7 @@ export const projects: Project[] = [
     description:
       "Travel insurance had earned its reputation as the most yawn-worthy purchase of any trip — a category built on fine print and worst-case scenarios nobody has time for. The brand and naming work repositioned Zenner around a real idea: travel insurance should cover the whole trip, not just the emergencies. The platform reframed the category from a safety net you hope you never use into a travel companion for every stage of the journey, and the name Faye gave the brand a human front door to match.",
     tags: ["Brand Strategy & Identity", "Naming", "Copywriting"],
-    image: "/images/project-08.png",
+    image: "/images/project-faye.jpg",
     credit: { label: "Red Antler", href: "https://redantler.com" },
     accentColor: "#002FA7",
   },
