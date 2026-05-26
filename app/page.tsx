@@ -92,7 +92,7 @@ export default function Home() {
                 {/* Center — Title + Description */}
                 <div>
                   <h2 className="text-[12px] font-bold uppercase tracking-wide mb-2.5 leading-snug">
-                    <span className="text-[14px] font-bold text-[#002FA7]">
+                    <span className="text-[14px] font-bold text-[#2C2926]">
                       {project.id}
                     </span>
                     <span className="ml-2">{project.title}</span>
