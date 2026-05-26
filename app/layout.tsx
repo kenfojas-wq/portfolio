@@ -11,7 +11,7 @@ const spaceMono = Space_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kenneth Fojas",
+  title: "KENNETH NOT KENNY",
   description: "Portfolio of Kenneth Fojas, brand strategist.",
 };
 
@@ -31,7 +31,7 @@ export default function RootLayout({
         {/* ── Top-left: Name ─────────────────────────────────────── */}
         <div className="fixed top-0 left-0 z-50 p-6">
           <span className="text-[11px] font-bold tracking-widest uppercase">
-            Kenneth Fojas
+            Kenneth Not Kenny
           </span>
         </div>
 
