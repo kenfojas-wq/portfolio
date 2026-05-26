@@ -31,7 +31,7 @@ export default function RootLayout({
         {/* ── Top-left: Name ─────────────────────────────────────── */}
         <div className="fixed top-0 left-0 z-50 p-6">
           <span className="text-[11px] font-bold tracking-widest uppercase">
-            Kenneth<span style={{ letterSpacing: "-0.12em" }}>——</span>Not<span style={{ letterSpacing: "-0.12em" }}>——</span>Kenny
+            Kenneth<span style={{ letterSpacing: "-0.12em", marginRight: "0.25em" }}>——</span>Not<span style={{ letterSpacing: "-0.12em", marginRight: "0.25em" }}>——</span>Kenny
           </span>
         </div>
 
