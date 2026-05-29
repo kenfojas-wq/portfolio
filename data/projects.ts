@@ -14,8 +14,8 @@ export const projects: Project[] = [
     id: "01",
     title: "FACEBOOK",
     description:
-      "Young adults didn't leave Facebook, they just stopped opening it. Marketplace and Groups had quietly rebuilt the case for utility, but utility alone doesn't earn a spot on the home screen. The 2025 framework mapped where young adults actually invest their social energy and claimed the moments only Facebook could own: apartment hunts, local groups, side hustles, trip planning — the stuff a feed can't do.",
-    tags: ["Brand Strategy", "Campaign Planning", "Creative Strategy"],
+      "Young adults didn't leave Facebook, they just stopped opening it. Marketplace and Groups had quietly rebuilt the case for utility, but utility alone doesn't earn a spot on their home screen. As Facebook's AOR, our 2025 brand work mapped where young adults actually invest their attention and staked out the moments only Facebook could own: apartment hunts, local groups, side hustles, trip planning.",
+    tags: ["Brand Stewardship", "Brand Strategy", "Campaign Planning", "Creative Strategy"],
     image: "/images/project-01.png",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
     accentColor: "#002FA7",
@@ -24,7 +24,7 @@ export const projects: Project[] = [
     id: "02",
     title: "RIVIAN",
     description:
-      "Rivian isn't a typical car brand, so the work couldn't look like any other car ad. The 2025 creative platform anchored every touchpoint in a real Rivian owner's story: humans at the center, vehicle in the supporting role. Specs like safety, range, and performance became cinematic narratives inspired by real user stories. ▲27% ad recall. ▲74.3% aided awareness. ▲23.4% unaided.",
+      "Rivian isn't a typical car brand, so the work couldn't look like any other car ad. The 2025 creative platform built every touchpoint around a real owner's story: humans at the center, vehicle in the supporting role. Turning features like safety, range, and performance into cinematic narratives. ▲27% ad recall. ▲74.3% aided awareness. ▲23.4% unaided.",
     tags: ["Brand Strategy", "Campaign Strategy"],
     image: "/images/project-04.png",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
@@ -44,7 +44,7 @@ export const projects: Project[] = [
     id: "04",
     title: "ROBINHOOD",
     description:
-      "Robinhood built its reputation on getting rich quick, so retirement was a tough sell to an audience raised on instant returns. The 2023 IRA launch work started deep repositioning of the brand towards a sharper truth: slow, predictable wealth is still wealth. The platform, built around the 3% match and getting the most retirement for your retirement, reframed an insight young adults find boring into one worth paying attention to.",
+      "Robinhood built its reputation on getting rich quick, so retirement was a tough sell to an audience raised on instant returns. As their AOR, the 2023 IRA launch reframed the category around a sharper truth: slow, predictable wealth is still wealth. The campaign, anchored in the 3% match, turned an insight young adults find boring into one they couldn't ignore.",
     tags: ["Brand Stewardship", "Brand Positioning", "Campaign Strategy", "Comms Planning"],
     image: "/images/project-02.png",
     video: "/videos/project-robinhood.mp4",
@@ -55,7 +55,7 @@ export const projects: Project[] = [
     id: "05",
     title: "EX PROGRAM",
     description:
-      "Truth Initiative needed to evolve from preventing youth vaping into the go-to guide for young adults trying to quit nicotine. The strategic reframe flipped the cultural narrative from \"you're failing at quitting\" to \"quitting itself is broken.\" That single insight unlocked a brand architecture for EX Program as the only resource that meets Gen Z across every phase of the quit journey, instead of treating individual symptoms.",
+      "The quit-nicotine category had a lie baked in: that people who couldn't quit were relapsing at an alarming rate when quitting cold turkey. The strategic reframe flipped it from \"you're failing at quitting\" to \"quitting itself is broken.\" That single insight repositioned EX Program from a cessation tool into the only guide that meets Gen Z at every stage of the journey, not just the moment of crisis.",
     tags: ["Brand Positioning", "Design Strategy", "Campaign Planning"],
     image: "/images/project-ex-program.png",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
@@ -65,7 +65,7 @@ export const projects: Project[] = [
     id: "06",
     title: "CHIME",
     description:
-      "Chime had a reputation as #fintok was trending on social, but the brand was still showing up as a functional toolkit. The 2025 Financial Progress Month strategy unpacked the mindset behind #fintok's 400% rise and landed on a real consumer tension: young people are rewriting their own pathways to the American Dream. The platform repositioned Chime from a set of tools into emotional validation that you're making it — and redefining what \"making it\" looks like in 2025.",
+      "#fintok gave Chime cultural credibility, but the brand was still showing up as a toolkit when its audience expected something bigger. Our 2025 Financial Progress Month platform landed on real tension: young people aren't chasing the American Dream, they're rewriting it. The platform repositioned Chime from a set of features into proof that the new path counts.",
     tags: ["Brand Stewardship", "Campaign Strategy", "Content Strategy"],
     image: "/images/project-06.png",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
@@ -75,7 +75,7 @@ export const projects: Project[] = [
     id: "07",
     title: "OUTERSPACE",
     description:
-      "Outerspace was quietly reinventing third-party logistics, but the category was a sea of bland pack-and-ship sameness. The brand architecture reframed operations as a competitive advantage and positioned Outerspace as a badge of success for the most iconic brands in the world, productizing the holistic offering and turning a functional service into something founders are proud to work with.",
+      "Outerspace was quietly reinventing third-party logistics, but the category was a sea of bland pack-and-ship sameness. The brand architecture reframed operations not as a cost center but as a competitive advantage, turning a behind-the-scenes service into a badge the most iconic brands in the world are proud to carry.",
     tags: ["Brand Identity", "Copywriting"],
     image: "/images/project-07.png",
     video: "/videos/project-outerspace.mp4",
@@ -86,7 +86,7 @@ export const projects: Project[] = [
     id: "08",
     title: "SEEDLIP",
     description:
-      "Seedlip invented the non-alcoholic spirit category in 2014, but the space it created drifted. In proving it wasn't alcohol, the category lost touch with drinking culture itself. The 2025 brand strategy landed on a cultural shift: people aren't stepping away from drinking, they're toggling in and out of it, and what's in your hand still signals who you are in the room. Our platform, Boundless Connection, repositioned Seedlip from a non-alcoholic alternative into the drink that proves connection lives in people, not just pours — moving the brand from category-driven to culture-driven.",
+      "Seedlip invented the non-alcoholic spirit category in 2014, but the space it created drifted. In proving it wasn't alcohol, the category lost touch with drinking culture itself. The 2025 brand strategy landed on the real shift: people aren't stepping away from drinking, they're toggling in and out of it, and what's in your hand still signals who you are in the room. Boundless Connection moved Seedlip from the drink you choose instead of alcohol into the drink that proves connection lives in people, not pours.",
     tags: ["Brand Strategy", "Brand Positioning", "Campaign Strategy"],
     image: "/images/project-seedlip.png",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
@@ -96,7 +96,7 @@ export const projects: Project[] = [
     id: "09",
     title: "CHASE TRAVEL",
     description:
-      "Chase Travel had evolved from a points portal into a full-service trip planning platform, but cardmembers still saw it as a place to cash in points to shave a few bucks off. The insight: travel is exciting, planning is exhausting. The platform centered Chase Travel's team of well-traveled editors who take the work out of booking — moving the brand from transactional tool to a premium problem-solving service, and giving the audience a reason to start with Chase Travel instead of end there.",
+      "Chase Travel had evolved from a points portal into a full-service trip planning platform, but cardmembers still saw it as a place to shave a few bucks off at checkout. The core tension: travel is exciting, planning is exhausting. The platform reframed Chase Travel's team of well-traveled editors as the people who take the work out of the trip, giving cardmembers a reason to start there instead of just end there.",
     tags: ["Creative Strategy", "Focus Groups"],
     image: "/images/project-chase-travel.gif",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
@@ -106,7 +106,7 @@ export const projects: Project[] = [
     id: "10",
     title: "FAYE",
     description:
-      "Travel insurance had earned its reputation as the most yawn-worthy purchase of any trip — a category built on fine print and worst-case scenarios nobody has time for. The brand and naming work repositioned Zenner around a real idea: travel insurance should cover the whole trip, not just the emergencies. The platform reframed the category from a safety net you hope you never use into a travel companion for every stage of the journey, and the name Faye gave the brand a human front door to match.",
+      "Travel insurance had earned its reputation as the most yawn-inducing purchase of any trip: fine print, worst-case scenarios, a product built to be forgotten. The brand and naming work repositioned Zenner around a sharper truth: insurance should cover the whole trip, not just the emergencies. The category became a travel companion for every stage of the journey. The name Faye gave the brand a human front door to match.",
     tags: ["Brand Strategy & Identity", "Naming", "Copywriting"],
     image: "/images/project-faye.jpg",
     credit: { label: "Red Antler", href: "https://redantler.com" },
@@ -116,7 +116,7 @@ export const projects: Project[] = [
     id: "11",
     title: "COOKUNITY",
     description:
-      "CookUnity sits in an awkward spot in meal delivery: not quite a kit, not quite a restaurant, and the category shortcuts of time savings and fresh ingredients don't capture what makes it different. The Fall 2025 BTS strategy landed on a behavioral shift: if summer is indulgence, fall is when food becomes functional. The platform, Chefs to the People, positioned CookUnity Chefs as the difference between being fed and feeling fulfilled, competing on nourishment instead of convenience.",
+      "CookUnity sits in an awkward spot in the meal delivery world: not quite a kit, not quite a restaurant, and the category shortcuts of time savings and fresh ingredients don't capture what makes it different. The Fall 2025 BTS strategy landed on a behavioral truth: if summer is indulgence, fall is when food becomes functional. The platform, Chefs to the People, positioned CookUnity Chefs as the difference between being fed and feeling fulfilled, competing on nourishment instead of convenience.",
     tags: ["Brand Stewardship", "Campaign Strategy", "Comms"],
     image: "/images/project-09.jpg",
     credit: { label: "Mojo Supermarket", href: "https://mojosuper.market/" },
